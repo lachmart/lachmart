@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Martin
 
-<!--
-**lachmart/lachmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP developer from Olomouc, Czech Republic, with 9+ years of experience building web applications in **Nette** and **Laravel**.
 
-Here are some ideas to get you started:
+I work on projects for clients in healthcare, e-commerce, government and sports, from custom web applications and e-shops to server administration and deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+PHP · Nette · Laravel · Docker · Git · Python (automation and scripting)
+
+### About my code
+
+Most of my work is client code under NDA, so those repositories are private. The contribution graph below includes that private activity.
+
+### Links
+
+- Portfolio [lachmart.cz](https://lachmart.cz)
+- Email lachmart@gmail.com
