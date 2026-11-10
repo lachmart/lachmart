@@ -1,6 +1,6 @@
 # Hi, I'm Martin
 
-PHP developer from Olomouc, Czech Republic, with 9+ years of experience building web applications in **Nette** and **Laravel**.
+developer from Olomouc, Czech Republic, with 9+ years of experience building web applications in **Nette** and **Laravel**.
 
 I work on projects for clients in healthcare, e-commerce, government and sports, from custom web applications and e-shops to server administration and deployment.
 
