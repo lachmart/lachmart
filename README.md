@@ -8,7 +8,7 @@ Outside the web I build embedded projects on **ESP32** and **Arduino** in C and 
 
 ### Tech stack
 
-| | |
+| Area | Technologies |
 |---|---|
 | **Backend** | PHP 8 · Nette (Latte, Tracy, Nette Database, Forms) · Laravel (Filament, Inertia, Sanctum, Reverb, Laravel MCP) · Doctrine ORM · REST APIs · Strapi |
 | **Frontend** | JavaScript · TypeScript · Vue 3 · React · Next.js · Tailwind CSS · Bootstrap · jQuery · Vite · Leaflet |
